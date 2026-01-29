@@ -23,4 +23,13 @@ Independente: Não precisa de internet nem de roteador Wi-Fi.
 
 4. O Receptor (O Executor) ⚡ Ele fica no modo "escuta". Assim que recebe o pacote, ele lê o comando e aciona o relé.
    
-   
+URL Suporte ESP8266 no Arduino IDE -> 
+Vá em Arquivo → Preferências  (Ctrl+Vírgula)
+👉 Em URLs adicionais de Gerenciadores de Placas, adicione:
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+Instalar o pacote ESP8266
+👉 Vá em Ferramentas → Placa → Gerenciador de Placas
+Procure por ESP8266
+Instale:  esp8266 by ESP8266 Community
+
