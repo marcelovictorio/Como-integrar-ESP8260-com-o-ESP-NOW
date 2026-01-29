@@ -1,6 +1,9 @@
 🚀 Acione qualquer coisa à distância com ESP8266 e ESP-NOW! (Sem precisar de Wi-Fi)
 Você sabia que pode controlar um relé a mais de 150 metros de distância sem usar nenhum roteador? Hoje vamos resumir como dominar o protocolo ESP-NOW com o ESP8266! 📡🔌
 
+https://youtu.be/Mqpm4VMfOcA?si=_SW4mictje5O8Z-5
+
+
 📡 O que é o ESP-NOW?
 É um protocolo de comunicação direta entre placas ESP. É como um "walkie-talkie" para eletrônica:
 Super Rápido: Latência quase zero.
